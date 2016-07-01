@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    margin: 0 0 50px 0;
+}
+#main{
+    margin-bottom: 30px;
+}
+#main .content{
+    width: 1000px;
+    margin: 0 auto;
+}
+/*pos*/
+#main .content .pos{
+    padding:20px 0;
+    border-bottom: 1px dashed #CFAE00;
+    margin-bottom: 40px;
+    font-size: 14px;
+}
+#main .pos a{
+    color: #006100;
+}
+#main .pos a:hover{
+    color: #CFAE00;
+}
+/*video*/
+#main .video{
+    padding-bottom: 20px;
+    border-bottom: 1px dashed #CFAE00;
+    text-align: center;
+}
+/*item*/
+#main .item{
+    padding: 20px 0;
+    border-bottom: 1px dashed #CFAE00;
+}
+#main .item .title{
+    color: #006100;
+}
+#main .item .subTitle{
+    color: #CFAE00;
+}
+#main .item .container{
+    font-size: 13px;
+    color: #000;
+}
+#main .item .container p{
+    text-indent: 2em;
+}
+#main .item p{
+    margin: 20px 0;
+    line-height: 23px;
+}
+#main .subNav{
+    overflow: hidden;
+    border: 1px solid #999;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+#main .subNav li{
+    float: left;
+    text-indent: 0;
+    width: 81px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+#main .business li{
+    width: 120px;
+}
+#main .subNav li.active,#main .subNav li:hover{
+    background:url(../asset/select1.png) 0 5px repeat-x;
+}
+#main .subContent li{
+    border: 1px solid #999;
+    padding: 5px;
+    border-radius: 5px;
+}
+/*subNav*/
+#subNav{
+    position: fixed;
+    left: 60px;
+    top: 30%;
+    border-radius: 5px;
+    overflow: hidden;
+    width: 200px;
+    text-align: center;
+}
+#subNav li{
+    padding: 15px 0;
+    color: #fff;
+    background-color: #948449;
+    cursor: pointer;
+    font-size: 14px;
+    margin-bottom: 1px;
+    font-weight: bold;
+}
+#subNav li.active,#subNav li:hover{
+    background-color: #B0A067;
+    font-weight: normal;
+}
+#qwzj .container{
+    padding-top: 10px;
+    text-indent: 0;
+    overflow: hidden;
+}
+#qwzj .container li{
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #CFAE00;
+}
+#qwzj .container a:hover{
+    color: #006100;
+}
+/*企业文化*/
+#qywh ._item{
+    position: relative;
+    margin-bottom: 20px;
+}
+#qywh .logo{
+    text-align: center;
+
+}
+#qywh .flag_y,#qywh .flag_g{
+    position: absolute;
+    left: 20px;
+    top: 5px;
+    width: 20px;
+    height: 20px;
+    background-color: #CFAE00;
+}
+#qywh .flag_g{
+    background-color: #006100;
+}
+#qywh .chi{
+     margin-left: 60px;
+ }
+#qywh .whln_item{
+    margin: 10px 0;
+}
+#qywh .item .subContent ._title{
+    margin-top: 10px;
+}
+#qywh .subContent li{
+    display: none;
+}
+#qywh .subContent li.active{
+    display: block;
+}
+/*发展历程*/
+#fzlc ._con{
+    text-indent: 2em;
+}
+#fzlc .subContent li{
+    display: none;
+}
+#fzlc .subContent li.active{
+    display: block;
+}
+#fzlc .subContent ._title{
+    margin-top: 10px;
+}
+
+/*企业内刊*/
+#qynk .subContent a{
+    margin: 0 10px;
+}
+#qynk .subContent a:hover{
+    color: #006100;
+}
+#qynk .subContent li{
+    display: none;
+}
+#qynk .subContent li.active{
+    display: block;
+}
+#banner{
+    overflow: hidden;
+    margin-top: 87px;
+    height: 320px;
+}
+#banner img{
+    position: relative;
+    left: 50%;
+    margin-left: -960px;
+}
+#qywh .zyyw li{
+    border: none;
+    width: 600px;
+    margin: 0 auto;
+}
+#qywh .zyyw h3{
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+    background-color: #248D86;
+    color: #fff;
+    letter-spacing: 3px;
+    margin: 15px 0 3px 0;
+}
+#qywh .zyyw p{
+    margin: 5px 0;
+    font-size: 16px;
+    line-height: 25px;
+    color: #5F5F5F;
+    letter-spacing: 3px;
+}
+
+

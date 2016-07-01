@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script charset="utf-8" src="kindeditor-all-min.js"></script>
+    <script charset="utf-8" src="lang/zh-CN.js"></script>
+    <script src="../active/jquery-2.2.0.js"></script>
+    <script>
+        KindEditor.ready(function(K) {
+            window.editor = K.create('#editor_id');
+        });
+        $(function(){
+            $("#btn").click(function(){
+                KindEditor.sync("#editor_id");
+                console.log($("#editor_id").val());
+            })
+        })
+    </script>
+</head>
+<body>
+<textarea id="editor_id" name="content" style="width:700px;height:300px;">
+
+</textarea>
+<input type="button" value="ok" id="btn">
+
+</body>
+</html>

@@ -1,0 +1,104 @@
+*{
+    font-family: "微软雅黑";
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+
+}
+ul{
+    list-style-type: none;
+}
+body{
+    position: relative;
+}
+::-webkit-scrollbar {
+    width: 5px;
+}
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background: rgba(0,97,46,0.8);
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.8);
+}
+/*nav*/
+nav{
+    background-color: #00612e;
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    top: 0;
+}
+nav .content{
+    padding: 22px 0 0 0;
+    width: 980px;
+    margin: 0 auto;
+    height: 43px;
+    background-color: #00612e;
+}
+nav .logo{
+    float: left;
+    margin-right: 30px;
+}
+nav .logo a{
+    width: 174px;
+    height: 43px;
+    display: block;
+    background: url(../asset/logo_new.png) no-repeat;
+    text-indent: -9999px;
+}
+nav .main{
+    float: right;
+    position: relative;
+}
+#navBg{
+    position: absolute;
+    bottom: 0;
+    left: 35px;
+}
+nav .main a{
+    display: inline-block;
+    height: 43px;
+    line-height: 43px;
+    text-align: center;
+    font-size: 14px;
+    padding: 0 35px 22px 35px;
+    color: #dbb36a;
+}
+nav .main a.last{
+    padding-right: 0;
+}
+nav .main span{
+    color: #6d844d;
+}
+
+
+/*footer*/
+#footer{
+    text-align: center;
+    overflow: visible;
+    position: relative;
+    background: url(../asset/contact.png) no-repeat 50% 0;
+}
+#footer .content{
+    position: relative;
+    width: 980px;
+    margin: 0 auto;
+    padding: 176px 0 70px 0;
+    color: #999;
+    font-size: 20px;
+    overflow: visible;
+}
+#footer .footer{
+    height: 70px;
+    line-height: 80px;
+    background-color: #222;
+    text-align: center;
+    color: #666;
+    font-size: 12px;
+}
+#footer span{
+    margin: 0 22px 0 0;
+}
+

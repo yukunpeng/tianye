@@ -1,0 +1,34 @@
+/**
+ * Created by Administrator on 2016/4/11.
+ */
+var tools={
+    workNewType:1,//1，代表作品，2.代表新闻
+    foldTime:500,
+    slideTime:500,
+    //移出div到屏幕右侧
+    outToRight:function(div){
+        div.css("left",0);
+        div.animate({left:div.width()+"px"},this.slideTime);
+    },
+    //移出div到屏幕左侧
+    outToLeft:function(div){
+        div.css("left",0);
+        div.animate({left:-div.width()+"px"},this.slideTime);
+    },
+    //从屏幕左侧移入div
+    intoFromLeft:function(div){
+        div.css("left",-div.width()+"px");
+        div.animate({left:"0"},this.slideTime);
+    },
+    //从屏幕右侧移入div
+    intoFromRight:function(div){
+        div.css("left",div.width()+"px");
+        div.animate({left:"0"},this.slideTime);
+    },
+    showLoading:function(){
+        $(".loading").show();
+    },
+    hideLoading:function(){
+        $(".loading").hide();
+    }
+}
