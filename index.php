@@ -34,8 +34,8 @@
 <body>
 <div id="banner">
     <ul class="content">
-        <li class="active" style="background-image: url(asset/banner1.jpg)"></li>
         <li style="background-image: url(asset/banner2.jpg)"></li>
+        <li class="active" style="background-image: url(asset/banner1.jpg)"></li>
         <li style="background-image: url(asset/banner3.jpg)"></li>
     </ul>
     <img src="asset/bannerleft.png" class="bannerLeft">

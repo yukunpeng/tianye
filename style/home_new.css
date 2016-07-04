@@ -91,8 +91,9 @@ html{
 }
 #banner .bannerLeft,#banner .bannerRight{
     position: absolute;
-    top: 230px;
+    top: 260px;
     cursor: pointer;
+    opacity: 0.6;
 }
 #banner .bannerRight{
     right: 0;
