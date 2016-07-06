@@ -14,7 +14,16 @@
 
     <script src = "https://cdn.wilddog.com/js/client/current/wilddog.js" ></script>
     <script>
-        var ref = new Wilddog("https://<appId>.wilddogio.com/");
+        var ref = new Wilddog("https://qq947289507-1.wilddogio.com");
+        console.log(ref);
+        //ref=ref.child("kun");
+        console.log(ref);
+
+        ref.on("value", function(datasnapshot,error) {
+            if (error == null) {
+                console.log(datasnapshot.val());   // 结果会在 console 中打印出 "beijing"
+            }
+        });
     </script>
 
 </head>
