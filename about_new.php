@@ -10,7 +10,20 @@
     <link href="style/about_new.css" rel="stylesheet" type="text/css">
     <script src="active/about_new.js"></script>
     <script src="active/mobile.js"></script>
+    <script>
+        function GetQueryString(name) {
+            var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+            var r = window.location.search.substr(1).match(reg);
+            if(r!=null)return  unescape(r[2]); return null;
+        }
+        $(function(){
+            if(GetQueryString("pos")){
+                var div=$("#gsjj");
+                $("html,body").animate({scrollTop:(div.offset().top-80)+"px"},300);
+            }
+        })
 
+    </script>
 </head>
 <body>
 <nav id="nav">
@@ -79,20 +92,20 @@
                         <h3>布展设计与施工</h3>
                         <img src="asset/image185.jpg" alt="">
                         <p>
-                            服务涉及博物馆、文化馆、纪念馆、校史馆、军史馆、警史馆、企业展馆等固定展览馆项目。目前，田野已拥有400多个各类优秀展览馆案例，3000万受众遍布全国。在项目规划、设计、施工、布展一体化服务模式下，公司业绩稳步增长。
+                            服务涉及博物馆、文化馆、纪念馆、校史馆、军史馆、警史馆、企业展馆等固定展览馆项目。目前，田野已拥有600多个各类优秀展览馆案例，逾亿受众遍布全国。在项目规划、设计、施工、布展一体化服务模式下，公司业绩稳步增长。
                         </p>
                     </li>
                     <li>
                         <h3>工程装饰设计与施工</h3>
                         <img src="asset/image175.jpg" alt="">
                         <p>
-                            服务涉及环境布局规划、空间换将装饰、办公环境设计等。田野为河南省中医院门诊大楼、豫光集团办公大楼、中联公司晋城分公司办公大楼等量身定做的空间装饰设计，不仅是一种办公、娱乐生活方式的表达，也是企业精神文化的至关展现。
+       x                     服务涉及环境布局规划、空间换将装饰、办公环境设计等。田野为河南省中医院门诊大楼、豫光集团办公大楼、中联公司晋城分公司办公大楼等量身定做的空间装饰设计，不仅是一种办公、娱乐生活方式的表达，也是企业精神文化的至关展现。
                         </p>
                     </li>
                     <li>
                         <h3>新媒体研发与应用</h3>
                         <img src="asset/image171.jpg" alt="">
-                        <p>服务涉及数字化展览馆、数字化展项、多媒体软硬件开发等。天人才济济、创意新颖、设备先进、专业为客户打造有品位、有价值的数字博物馆、投影互动、多点互动、投影沙盘、虚拟仿真游戏、触摸查询。4D影院等数字新媒体精品。</p>
+                        <p>服务涉及数字化展览馆、数字化展项、多媒体软硬件开发等。人才济济、创意新颖、设备先进、专业为客户打造有品位、有价值的数字博物馆、投影互动、多点互动、投影沙盘、虚拟仿真游戏、触摸查询。4D影院等数字新媒体精品。</p>
                     </li>
                     <li>
                         <h3>雕塑设计与制作</h3>
@@ -123,7 +136,8 @@
             <h4 class="subTitle">organizational structure</h4>
             <div class="container">
                 <p style="text-align: center">
-                    <img src="asset/zzjg.jpg" alt="" >
+<!--                    <img src="asset/zzjg.jpg" alt="" >-->
+                    <img src="asset/zzjg.png" alt="" >
                 </p>
             </div>
         </div>

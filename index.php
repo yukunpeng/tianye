@@ -5,7 +5,7 @@
     <meta name="keywords" content="000">
     <title>田野文化是一家专业从事各类博物馆、纪念馆、展览馆设计、施工、布展的文化产业集团</title>
     <meta name="description" content="河南田野文化艺术有限公司是一家致力于中国校园文化和校史馆设计建设的文化机构。服务项目有：博物馆装饰设计布展，校园文化规划设计施工，校史馆设计施工，各类教学场馆的设计与建设等。">
-    <meta name="keywords" content="田野，tianye,田野文化，田野文化公司，博物馆，博物馆设计，博物馆布展，博物馆装饰设计，校史馆，郑州校史馆，校史馆,xsg,xiaoshiguan，郑州校史馆，校庆，校庆庆典，xiaoqingqingdian，xioqing，zhengzhouxiaoshiguan校园展板,校园文化,展板,历史教室,标本馆设计,走廊文化,楼道文化,浮雕,校园景观设计,实验室,科普馆,田野文化 郑州田野文化 郑州博物馆 zhengzhouxiaoshiguan 校庆规划设计 校庆画册 博物馆 校庆庆典 校史馆设计专家 xiaoshiguanshejizhuanjia 校庆公司 郑州展馆设计 河南最好的校史馆设计 中国排名第一校史馆 郑州文化公司 河南文化创意公司 xiaoshiguanzhanguan zhanguan huace wenhuayishu 校史陈列 中国校史陈列 荣誉室 学校荣誉室 院史馆 xiaoshichenlie 郑州校庆 郑州校庆画册 企业荣誉展厅 名人馆 北京校史馆 北京校园文化 上海校史馆 上海校园文化 广州校史馆 广州校园文化 湖南校史馆 湖南校园文化 重庆校史馆 重庆校园文化 安徽校史馆 安徽校园文化 江苏校史馆 江苏校园文化 西南校史馆 西南校园文化 黑龙江校史馆 黑龙江校园文化 郑州校史馆设计施工专业服务 校史馆设计施工专业服务 校园文化设计施工专业服务 校史馆方案 校史馆策划方案 校园文化策划方案 校园文化方案 037165825291">
+    <meta name="keywords" content="田野文化.cn,田野文化.中国,田野文化.top,田野，tianye,田野文化，田野文化公司，博物馆，博物馆设计，博物馆布展，博物馆装饰设计，校史馆，郑州校史馆，校史馆,xsg,xiaoshiguan，郑州校史馆，校庆，校庆庆典，xiaoqingqingdian，xioqing，zhengzhouxiaoshiguan校园展板,校园文化,展板,历史教室,标本馆设计,走廊文化,楼道文化,浮雕,校园景观设计,实验室,科普馆,田野文化 郑州田野文化 郑州博物馆 zhengzhouxiaoshiguan 校庆规划设计 校庆画册 博物馆 校庆庆典 校史馆设计专家 xiaoshiguanshejizhuanjia 校庆公司 郑州展馆设计 河南最好的校史馆设计 中国排名第一校史馆 郑州文化公司 河南文化创意公司 xiaoshiguanzhanguan zhanguan huace wenhuayishu 校史陈列 中国校史陈列 荣誉室 学校荣誉室 院史馆 xiaoshichenlie 郑州校庆 郑州校庆画册 企业荣誉展厅 名人馆 北京校史馆 北京校园文化 上海校史馆 上海校园文化 广州校史馆 广州校园文化 湖南校史馆 湖南校园文化 重庆校史馆 重庆校园文化 安徽校史馆 安徽校园文化 江苏校史馆 江苏校园文化 西南校史馆 西南校园文化 黑龙江校史馆 黑龙江校园文化 郑州校史馆设计施工专业服务 校史馆设计施工专业服务 校园文化设计施工专业服务 校史馆方案 校史馆策划方案 校园文化策划方案 校园文化方案 037165825291">
     <meta name="owner" content="田野文化产业机构">
     <meta name="generator" content="tianye Network--Hsiehs's Tech; tyys.cn[at]163.com">
     <meta name="copyright" content="Copyright 1996-2009 tianye Network">
@@ -112,15 +112,15 @@
         <div class="wrap">
             <ul class="container">
                 <li pos="0"><img src="asset/man1.jpg" alt=""><br /><span class="name">朱东升</span><br /><span class="job">项目总监</span></li>
-                <li pos="1"><img src="asset/man0.jpg" alt=""><br /><span class="name">王中</span><br /><span class="job">创意总监</span></li>
-                <li pos="2"><img src="asset/man6.jpg" alt=""><br /><span class="name">于德水</span><br /><span class="job">艺术总监</span></li>
-                <li pos="3"><img src="asset/man5.jpg" alt=""><br /><span class="name">Dennis</span><br /><span class="job">项目顾问</span></li>
+                <li pos="1"><img src="asset/man0.jpg" alt=""><br /><span class="name">王中</span><br /><span class="job">艺术总监</span></li>
+                <li pos="2"><img src="asset/man5.jpg" alt=""><br /><span class="name">Dennis</span><br /><span class="job">艺术顾问</span></li>
+                <li pos="3"><img src="asset/man6.jpg" alt=""><br /><span class="name">于德水</span><br /><span class="job">影像总监</span></li>
                 <li pos="4"><img src="asset/man7.jpg" alt=""><br /><span class="name">王征</span><br /><span class="job">策划总监</span></li>
                 <li pos="5"><img src="asset/man8.jpg" alt=""><br /><span class="name">李嫣</span><br /><span class="job">国际运营总监</span></li>
                 <li pos="6"><img src="asset/man3.jpg" alt=""><br /><span class="name">刘守中</span><br /><span class="job">市场商务总监</span></li>
                 <li pos="7"><img src="asset/man4.jpg" alt=""><br /><span class="name">段凯宏</span><br /><span class="job">布展设计总监</span></li>
                 <li pos="8"><img src="asset/man2.jpg" alt=""><br /><span class="name">孙琳娜</span><br /><span class="job">审计财务总监</span></li>
-                <li pos="9"><img src="asset/man9.jpg" alt=""><br /><span class="name">程习武</span><br /><span class="job">项目总监</span></li>
+                <li pos="9"><img src="asset/man9.jpg" alt=""><br /><span class="name">程习武</span><br /><span class="job">文学总监</span></li>
             </ul>
         </div>
 
@@ -150,7 +150,7 @@
             <img src="asset/man0.jpg" alt="">
             <div class="intro">
                 <div class="title">王中</div>
-                <div class="subTitle">创意总监</div>
+                <div class="subTitle">艺术总监</div>
                 <div class="job">
                     <p>中央美术学院教授,博士生导师</p>
                     <p>田野文化产业机构创意总监</p>
@@ -165,27 +165,27 @@
             </div>
         </li>
         <li>
-            <img src="asset/man6.jpg" alt="">
-            <div class="intro">
-                <div class="title">于德水</div>
-                <div class="subTitle">艺术总监</div>
-                <div class="job">
-                    <p>田野文化产业机构艺术总监</p>
-                    <p>中国摄影家协会常务理事</p>
-                    <p>河南省摄影家协会主席</p>
-                </div>
-            </div>
-        </li>
-        <li>
             <img src="asset/man5.jpg" alt="">
             <div class="intro">
                 <div class="title">Dennis</div>
-                <div class="subTitle">项目顾问</div>
+                <div class="subTitle">艺术顾问</div>
                 <div class="job">
                     <p>田野文化纽约国际艺术中心艺术总监</p>
                     <p>美国亚特兰大州立大学</p>
                     <p>副校长、博士生导师</p>
                     <p>全美艺术联盟副秘书长</p>
+                </div>
+            </div>
+        </li>
+        <li>
+            <img src="asset/man6.jpg" alt="">
+            <div class="intro">
+                <div class="title">于德水</div>
+                <div class="subTitle">影像总监</div>
+                <div class="job">
+                    <p>田野文化产业机构艺术总监</p>
+                    <p>中国摄影家协会常务理事</p>
+                    <p>河南省摄影家协会主席</p>
                 </div>
             </div>
         </li>
@@ -305,7 +305,7 @@
             <li><a href="contact_new.php?pos=2">田野文化(西安)公司</a></li>
             <li><a href="contact_new.php?pos=3">田野文化(合肥)公司</a></li>
             <li><a href="contact_new.php?pos=4">田野文化(成都)公司</a></li>
-            <li><a href="contact_new.php?pos=5">田野文化(桂林)公司</a></li>
+            <li><a href="contact_new.php?pos=5">田野文化(广西)公司</a></li>
             <li><a href="contact_new.php?pos=6">田野文化(河北)公司</a></li>
             <li><a href="contact_new.php?pos=7">田野文化(银川)公司</a></li>
             <li><a href="contact_new.php?pos=8">田野文化(广州)公司</a></li>
